@@ -1,6 +1,6 @@
 {
-  "name": "app-root",
-  "version": "1.0.3",
+  "name": "fmk-app-root",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
