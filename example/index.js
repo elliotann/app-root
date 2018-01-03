@@ -1,5 +1,5 @@
-import { config, start, componentFactory } from 'mk-meta-engine'
-import * as mkComponents from 'mk-component'
+import { config, start, componentFactory } from 'fk-meta-engine'
+import * as mkComponents from 'fk-component'
 import myConfig  from './config'
 
 import mk_app_root_about from './apps/mk-app-root/apps/mk-app-root-about/index.js'

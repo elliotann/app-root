@@ -1,11 +1,11 @@
 {
   "name": "app-root",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --output-filename mk-app-root.js",
-    "build-min": "cross-env NODE_ENV=production COMPRESS=1 webpack --output-filename mk-app-root.min.js",
+    "build": "webpack --output-filename app-root.js",
+    "build-min": "cross-env NODE_ENV=production COMPRESS=1 webpack --output-filename app-root.min.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

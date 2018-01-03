@@ -1,7 +1,7 @@
 import React from 'react'
-import { action as MetaAction, AppLoader } from 'mk-meta-engine'
+import { action as MetaAction, AppLoader } from 'fk-meta-engine'
 import config from './config'
-import { history } from 'mk-utils'
+import { history } from 'fk-utils'
 import { getInitState } from './data'
 
 class action {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import { wrapper } from 'mk-meta-engine'
+import { wrapper } from 'fk-meta-engine'
 
 import appInfo from './index'
 
