@@ -4,9 +4,9 @@ import * as data from './data'
 import './style.less'
 
 export default {
-    name: "mk-app-root",
-    version: "1.0.8",
-    description: "mk-app-root",
+    name: "fk-app-root",
+    version: "1.0.0",
+    description: "fk-app-root",
     meta: data.getMeta(),
     components: [],
     config: config,
